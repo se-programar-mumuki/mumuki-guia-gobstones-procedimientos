@@ -1,0 +1,1 @@
+Prestá atención a la cantidad de parámetros que recibe el procedimiento y en qué orden. Y no te olvides de separarlos con comas. :wink:

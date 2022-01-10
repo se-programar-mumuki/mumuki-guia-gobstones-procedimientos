@@ -1,0 +1,6 @@
+/*...previousSolution...*/
+
+procedure VolverAtras() {
+	Mover(Oeste)
+	Mover(Oeste)
+}

@@ -1,0 +1,1 @@
+¡Muy bien! Ya tenemos un cuadrado negro, pero también queremos cuadrados de otros colores :sweat_smile:. Solucionemos esto haciendo nuevos procedimientos. :smirk:

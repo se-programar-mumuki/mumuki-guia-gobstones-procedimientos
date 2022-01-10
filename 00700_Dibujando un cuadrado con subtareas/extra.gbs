@@ -1,0 +1,23 @@
+procedure VolverAtras() {
+	Mover(Oeste)
+	Mover(Oeste)
+}
+
+procedure DibujarLineaNegra3() {
+/*
+<elipsis-for-student@
+*/
+  Poner(Negro)
+  Mover(Este)
+  Poner(Negro)
+  Mover(Este)
+  Poner(Negro)
+  VolverAtras()
+/*
+@elipsis-for-student>
+*/ 
+}
+
+/*
+La definición de este procedimiento está oculta pero satisface lo requerido en el ejercicio anterior.
+*/

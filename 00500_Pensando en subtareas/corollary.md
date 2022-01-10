@@ -1,0 +1,1 @@
+¡Perfecto! :tada: Ya tenemos nuestra línea, ya vamos a poder hacer un cuadrado negro. :black_medium_small_square:

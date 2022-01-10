@@ -1,0 +1,13 @@
+procedure DibujarLineaNegra3() {
+  repeat(2) {
+    Poner(Negro)
+    Mover(Este)
+  }
+  Poner(Negro)
+  VolverAtras()
+}
+
+procedure VolverAtras() {
+	Mover(Oeste)
+	Mover(Oeste)
+}
